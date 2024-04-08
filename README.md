@@ -9,4 +9,4 @@ Nesse trabalho fizemos um prototipo de sites de jogos e depois fizemos uma apres
 
 [Aula Markdowm](https://github.com/leonElvasdev/aulaMarkdown)
 
-nessa aula fizemos uma pesquisa 
+nessa aula fizemos uma pesquisa sobre engenharia de requisitos usando as técnicas do Markdom.  
